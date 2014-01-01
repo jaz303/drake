@@ -1,5 +1,5 @@
 {
-  "name": "goblin",
+  "name": "drake",
   "version": "0.0.1",
   "description": "Move along, nothing to see yet.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaz303/goblin.git"
+    "url": "git://github.com/jaz303/drake.git"
   },
   "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaz303/goblin/issues"
+    "url": "https://github.com/jaz303/drake/issues"
   },
-  "homepage": "https://github.com/jaz303/goblin"
+  "homepage": "https://github.com/jaz303/drake"
 }
