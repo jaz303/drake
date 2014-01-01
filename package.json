@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaz303/drake/issues"
   },
-  "homepage": "https://github.com/jaz303/drake"
+  "homepage": "https://github.com/jaz303/drake",
+  "dependencies": {
+    "gl-matrix": "~2.0.0"
+  }
 }
