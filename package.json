@@ -1,6 +1,6 @@
 {
   "name": "drake",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Move along, nothing to see yet.",
   "main": "index.js",
   "scripts": {
