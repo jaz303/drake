@@ -1,6 +1,6 @@
 {
   "name": "goblin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Move along, nothing to see yet.",
   "main": "index.js",
   "scripts": {
